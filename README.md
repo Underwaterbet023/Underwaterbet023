@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sanskar Kumar
-<br>🎓 CSE student at Gautam Buddha University, Greater Noida<br>📊 Currently exploring Machine Learning and Data Analytics<br>💻 Passionate about solving problems through code and learning by building<br>📈 Focused on Python, data visualization, model building, and clean code practices<br><br>🛠️ Always improving, one commit at a time.<br>🌱 Open to collaboration and project ideas!
+<br>🎓 CSE student at Gautam Buddha University, Greater Noida<br>📊 Currently exploring Machine Learning and Data Analytics<br>💻 Passionate about solving problems through code and learning by building<br>📈 Focused on Python, data visualization, model building, and clean code practices<br>🛠️ Always improving, one commit at a time.<br>🌱 Open to collaboration and project ideas!
 
 
 ## 🌐 Socials:
