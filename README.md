@@ -14,13 +14,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Underwaterbet023&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🐍 GitHub Contributions Snake
-
-![Snake animation](https://raw.githubusercontent.com/Underwaterbet023/Underwaterbet023/output/github-snake.svg)
-
-![Snake animation dark](https://raw.githubusercontent.com/Underwaterbet023/Underwaterbet023/output/github-snake-dark.svg)
-
-![Snake animation gif](https://raw.githubusercontent.com/Underwaterbet023/Underwaterbet023/output/ocean.gif)
 
 
 ### ✍️ Random Dev Quote
