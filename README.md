@@ -16,7 +16,7 @@
 
 ## 🐍 Snake eating my GitHub contributions
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/Sanskarkumar55/Sanskarkumar55/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/Underwaterbet023/Underwaterbet023/output/github-contribution-grid-snake.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
