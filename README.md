@@ -15,7 +15,16 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Underwaterbet023&background=0d1117&ring=ff4d4d&fire=ff1a1a&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=Underwaterbet023
+  &background=0d1117
+  &ring=ff4d4d
+  &fire=ff1a1a
+  &currStreakNum=ffffff
+  &sideNums=ffffff
+  &currStreakLabel=ffffff
+  &sideLabels=ffffff
+  &dates=cccccc
+  &border_radius=10" />
 </p>
 
 <p align="center">
