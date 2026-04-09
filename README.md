@@ -14,7 +14,7 @@
 
 ![](https://streak-stats.demolab.com?user=Underwaterbet023&theme=tokyonight&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Underwaterbet023&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Underwaterbet023&layout=compact&theme=tokyonight)
 
 ## 🐍 Snake eating my GitHub contributions
 
