@@ -10,11 +10,18 @@
 # 📊 GitHub Stats:
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Underwaterbet023&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Underwaterbet023&show_icons=true&bg_color=0d1117,cc0000,440000&title_color=ffffff&text_color=ffffff&icon_color=ff4d4d&border_radius=10&count_private=true&include_all_commits=true" />
+</p>
 
-![](https://streak-stats.demolab.com?user=Underwaterbet023&theme=tokyonight&hide_border=false)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Underwaterbet023&background=0d1117&ring=ff4d4d&fire=ff1a1a&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=10" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Underwaterbet023&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Underwaterbet023&layout=compact&bg_color=0d1117,cc0000,440000&title_color=ffffff&text_color=ffffff&border_radius=10" />
+</p>
+
 
 ## 🐍 Snake eating my GitHub contributions
 
