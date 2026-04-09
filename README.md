@@ -15,13 +15,12 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Underwaterbet023&background=330000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=dddddd&border_radius=12" />
+  <img src="https://streak-stats.demolab.com?user=Underwaterbet023&background=330000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=dddddd&border_radius=12"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Underwaterbet023&layout=compact&bg_color=0d1117,cc0000,440000&title_color=ffffff&text_color=ffffff&border_radius=10"/>
 </p>
-
 
 ## 🐍 Snake eating my GitHub contributions
 
